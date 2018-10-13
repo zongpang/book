@@ -7,6 +7,7 @@ public class Book implements Serializable {
 	private String name;
 	private String writer;
 	private Double price;
+	
 
 	public Book(String name, String writer, Double price) {
 		super();
