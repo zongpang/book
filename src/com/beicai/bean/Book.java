@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Book implements Serializable {
 	private Integer id;
+	
 	private String name;
 	private String writer;
 	private Double price;
